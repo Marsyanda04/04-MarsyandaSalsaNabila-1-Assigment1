@@ -6,7 +6,7 @@ Repositori ini berisi assignment tentang "Foundation on Artificial Intelligence"
 
 * [Assignment 1: Foundation for AI](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/.gitignore)
 * [Assignment 2: Denominations](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/01_Kelompok_H_2.ipynb)
-* [Assignment 3: Analyze Data and Data Visualization](#assignment-3-analyze-data-and-data-visualization)
+* [Assignment 3: Analyze Data and Data Visualization](#assignment-3-analyze-data-and-data-visualization)](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/01_Kelompok_H_3.ipynb)
 
 ## Assignment 1: Foundation for AI 🤖
 
@@ -40,7 +40,7 @@ Assignment ini berfokus pada analitik dan visualisasi data. Di dalamnya, Anda ak
 * **Visualisasi data:**  Melakukan visualisasi data untuk EDA menggunakan library seperti Matplotlib atau Seaborn. 📈 
 * **Menjawab Pertanyaan** Menjawab pertanyaan terkait hubungan maupun insight lainnya dari hasil analisis data tersebut. 🧐
 
-[Link ke Assignment 3](./assignment1/analytics_visualization) (Ganti dengan link yang sesuai)
+[Link ke Assignment 3](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/01_Kelompok_H_3.ipynb)
 
 
 
