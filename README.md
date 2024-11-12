@@ -4,7 +4,7 @@ Repositori ini berisi assignment tentang "Foundation on Artificial Intelligence"
 
 ## Daftar Isi 📑
 
-* [Assignment 1: Foundation for AI](#assignment-1-foundation-for-ai)
+* [Assignment 1: Foundation for AI](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/.gitignore)
 * [Assignment 2: Denominations](#assignment-2-denominations)
 * [Assignment 3: Analyze Data and Data Visualization](#assignment-3-analyze-data-and-data-visualization)
 
@@ -16,7 +16,7 @@ Assignment ini mengeksplorasi konsep dasar dalam Artificial Intelligence.  Di da
 * **Inovasi yang paling berkesan:**  Memberikan pendapat terkait inovasi mana yang paling berkesan dan menginspirasi. 💻
 * **Masa Depan AI:** Memberikan pendapay terkait bagiamana perkembangan AI di masa mendatang. 🤔
 
-[Link ke Assignment 1](./assignment1/foundation_ai) 
+[Link ke Assignment 1](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/.gitignore)
 
 
 ## Assignment 2: Denominations 💰
