@@ -58,7 +58,7 @@ Kontribusi sangat diapresiasi!  Jika Anda menemukan kesalahan atau ingin menamba
 
 ## Lisensi 📜
 
-[Sebutkan lisensi yang digunakan, misalnya MIT License]
+[[MIT License](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/LICENSE)]
 
 
 Semoga repositori ini bermanfaat!  Selamat belajar! 🎉
