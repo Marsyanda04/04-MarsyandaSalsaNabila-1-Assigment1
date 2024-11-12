@@ -5,7 +5,7 @@ Repositori ini berisi assignment tentang "Foundation on Artificial Intelligence"
 ## Daftar Isi 📑
 
 * [Assignment 1: Foundation for AI](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/.gitignore)
-* [Assignment 2: Denominations](#assignment-2-denominations)
+* [Assignment 2: Denominations](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/01_Kelompok_H_2.ipynb)
 * [Assignment 3: Analyze Data and Data Visualization](#assignment-3-analyze-data-and-data-visualization)
 
 ## Assignment 1: Foundation for AI 🤖
@@ -28,7 +28,7 @@ Assignment ini membahas tentang denominasi, dalam konteks uang atau satuan lainn
 * **Menghitung berbagai jenis uang** Sistem bank dapat menghitung jumlah uang kertas dan uang koin yang dibutuhkan. 💻
 * **Keterbatasan konversi** Sistem bank hanya dapat mencairkan dana maksimal 1 miliar rupiah.  📝
 
-[Link ke Assignment 2](./assignment1/denominations) (Ganti dengan link yang sesuai)
+[Link ke Assignment 2](https://github.com/Marsyanda04/Ch.1-Foundation-on-Artificial-Intelligence/blob/main/01_Kelompok_H_2.ipynb) (Ganti dengan link yang sesuai)
 
 
 ## Assignment 3: Analyze Data and Data Visualization 📊
